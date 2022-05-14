@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613678669164",
+    "project_id": "aisingeomap",
+    "storage_bucket": "aisingeomap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613678669164:android:7d22c0a0c46e56cd11a749",
+        "android_client_info": {
+          "package_name": "com.irodev.aisinproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613678669164-2lrlj2665rlib5n3u61q7s1cirg9bruv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdbbC1TAGgL6PzpBfZauTVJSrFK5ZVXO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613678669164-2lrlj2665rlib5n3u61q7s1cirg9bruv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
